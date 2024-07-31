@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+
+body {
+    font-family: "Playwrite AR", cursive;
+    font-size: 30px;
+    /*negrito*/
+    font-weight: bold;
+    /*espaçamento entre linhas */
+    line-height: 1.5;
+    /*centralizar texto - */
+    /*text-align: center; */
+    /* Sublinhado*/
+    text-decoration: underline;
+    width: 50%;
+    margin: 0 auto;
+}
+h1{ 
+    /*Borda*/
+    border: solid 5px blue;
+    /*Margem_Sentido_Horário*/
+    margin: 20px 50px 100px 200px;
+    /*Dentro_da_borda*/
+    padding: 10px 200px 100px 5px;
+}
+div {
+    
+}
