@@ -1,0 +1,15 @@
+h1{
+    display: flex;
+    justify-content: center;
+    background-color: #168aad;
+    line-height: 3.5;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.artigo{
+    background-color: #76c893;
+    margin:10px;
+}
