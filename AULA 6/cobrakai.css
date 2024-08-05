@@ -1,0 +1,17 @@
+h1{
+   
+    justify-content: center;
+    display: flex;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.exemplo{
+    background-color: red;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+   
